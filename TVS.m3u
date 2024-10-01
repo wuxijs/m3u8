@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
 #EXTINF:-1 tvg-id="CETV1中国教育电视台一套" tvg-name="CETV1中国教育电视台一套" group-title="05港澳台", CETV1中国教育电视台一套
 https://stream1.freetv.fun/7aee499ca94e0799a039594ad57e69ae516ba59a3f69cb5c161a26e2994ebd8c.m3u8
 #EXTINF:-1 tvg-id="CETV1中国教育电视台一套 (Backup 1)" tvg-name="CETV1中国教育电视台一套 (Backup 1)" group-title="05港澳台", CETV1中国教育电视台一套 (Backup 1)
